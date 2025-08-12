@@ -8,6 +8,7 @@ public class countdigits{
     while(n!=0){
       n=n/10;
       count++;
+      
     }
   }
 }
